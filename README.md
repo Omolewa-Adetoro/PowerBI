@@ -18,6 +18,7 @@ Welcome to my **Power BI Repository**, where I showcase interactive dashboards b
 - **Tools Used:** Power BI 
 
 📌 *Preview:*  
+![Screenshot 2025-02-18 093326](https://github.com/user-attachments/assets/3eeaf457-37fd-4336-b113-2d23cd7c36b9)
 
 
 ---
@@ -28,9 +29,8 @@ Welcome to my **Power BI Repository**, where I showcase interactive dashboards b
 - **Tools Used:** Power BI 
 
 📌 *Preview:*  
-![Spotify Dashboard](INSERT_IMAGE_LINK_HERE)  
 
-🔗 **View Full Dashboard:** [Spotify Power BI Report](INSERT_LINK_HERE)  
+![Screenshot 2025-02-18 093722](https://github.com/user-attachments/assets/3133cfc4-06f1-4345-8fda-fee2fbee8c25)
 
 ---
 
@@ -40,9 +40,8 @@ Welcome to my **Power BI Repository**, where I showcase interactive dashboards b
 - **Tools Used:** Power BI
 
 📌 *Preview:*  
-![Sales Dashboard](INSERT_IMAGE_LINK_HERE)  
+![Screenshot 2025-02-18 094034](https://github.com/user-attachments/assets/5d74f063-d56e-4e0f-a34a-63c26956396b)
 
-🔗 **View Full Dashboard:** [Sales Power BI Report](INSERT_LINK_HERE)  
 
 ---
 
@@ -52,9 +51,8 @@ Welcome to my **Power BI Repository**, where I showcase interactive dashboards b
 - **Tools Used:** Power BI
 
 📌 *Preview:*  
-![Data Professional Survey Dashboard](INSERT_IMAGE_LINK_HERE)  
+![Screenshot 2025-02-18 093018](https://github.com/user-attachments/assets/84f6f9cd-f9c4-48dc-82a8-c2bfb6898900)
 
-🔗 **View Full Dashboard:** [Survey Breakdown Power BI Report](INSERT_LINK_HERE)  
 
 ---
 
@@ -64,19 +62,19 @@ Welcome to my **Power BI Repository**, where I showcase interactive dashboards b
 - **Tools Used:** Power BI
 
 📌 *Preview:*  
-![Online Retail Dashboard](INSERT_IMAGE_LINK_HERE)  
 
-🔗 **View Full Dashboard:** [Online Retail Power BI Report](INSERT_LINK_HERE)  
+![Screenshot 2025-02-18 093530](https://github.com/user-attachments/assets/10d2bb73-cd6a-413b-a199-71366d5acf0b)
 
 ---
 
 ### **6️⃣ Web Marketing Dashboard 🌐**  
 - **Focus:** Analyzes **website traffic, user engagement, and conversion rates** from digital marketing campaigns.  
 - **Key Insights:** Provides insights into **marketing channel effectiveness and user interaction patterns**.  
-- **Tools Used:** Power BI, Google Analytics, Power Query  
+- **Tools Used:** Power BI 
 
 📌 *Preview:*  
-![Web Marketing Dashboard](INSERT_IMAGE_LINK_HERE)  
+
+![Screenshot 2025-02-18 093912](https://github.com/user-attachments/assets/a42313db-ccb5-451f-bcd7-5fef225a70e0)
 
 
 
